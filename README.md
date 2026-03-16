@@ -1,6 +1,3 @@
-# network-monitoring-security
-Infrastructure monitoring and security diagnostics tool with TCP/IP troubleshooting, DNS monitoring, firewall auditing and alerting.
-
 # Network Monitoring and Security Diagnostics
 
 Infrastructure monitoring and cybersecurity diagnostics tool.
